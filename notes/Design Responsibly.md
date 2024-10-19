@@ -1,6 +1,6 @@
 ---
-layout: note
-title: Design Responsibly
+layout: default
+title: DesignResponsibly
 ---
 
 *A deep sense of love and belonging is an irreducible need of all women, men, and children. We are biologically, cognitively, physically and spiritually wired to love, to be loved and to belong. – Dr Brene Brown*

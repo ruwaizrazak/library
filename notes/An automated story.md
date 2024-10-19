@@ -1,5 +1,5 @@
 ---
-layout: note
+layout: default
 title: An automated story
 ---
 I once read quote which says “Be the lazy guy in the room so that you might find easy ways to do the tasks in a legitimate way”.

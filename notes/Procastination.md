@@ -1,4 +1,7 @@
-
+---
+layout: default
+title: Procastination
+---
 ## How to avoid
 
 ### Find the Why
@@ -9,7 +12,7 @@
 
 •  write as much as you can
 
-  
+
 ### Create a goal hierarchy. 
 
 •  You may have two goals
@@ -34,9 +37,9 @@ Figure out the destination then figure out the routes. Destination should be a r
 
 ### Change surroundings
 
-  
+
 
 
 ### Pin point weakness
 
-#wip #writing 
+#wip #writing

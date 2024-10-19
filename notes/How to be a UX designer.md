@@ -1,5 +1,5 @@
 ---
-layout: note
+layout: default
 title: How to be a UX designer
 ---
 

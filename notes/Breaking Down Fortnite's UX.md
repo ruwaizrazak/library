@@ -1,5 +1,5 @@
 ---
-layout: note
+layout: default
 title: Breaking Down Fortnite's UX
 ---
 

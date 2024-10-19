@@ -1,5 +1,5 @@
 ---
-layout: note
+layout: default
 title: Habits of every creative person
 ---
 - Money comes from territory that you are really good at work. Focus on great work and the money will follow.

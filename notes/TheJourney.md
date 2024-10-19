@@ -1,5 +1,5 @@
 ---
-layout: note
+layout: default
 title: The Journey
 ---
 Regardless of your agreement, we all are passengers, who got into the train named life. Running behind things which we wants to own, satisfying the basic necessities of yourself from the available options around you, and spectating the wonderful sites outside via the windows.

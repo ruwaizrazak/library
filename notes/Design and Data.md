@@ -1,5 +1,5 @@
 ---
-layout: note
+layout: default
 title: Design and Data
 ---
 

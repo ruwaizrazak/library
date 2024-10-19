@@ -1,5 +1,5 @@
 ---
-layout: note
+layout: default
 title: The unvowed future
 ---
 Most of us read newspapers every day. for some, its a ritual, and for the rest its once in a blue moon. However, both these categories gets used to the news which brings the death of someone who we once knew, who were something to us.

@@ -1,5 +1,5 @@
 ---
-layout: note
+layout: default
 title: Things I learned as a self taught designer
 ---
 1.  Earlier in your careers its best to embrace the “Junior” title and focus a lot on learning

@@ -1,5 +1,5 @@
 ---
-layout: note
+layout: default
 title: Childhood
 ---
 “I spent my whole childhood wishing I were older and now I'm spending my adulthood wishing I were younger”.
