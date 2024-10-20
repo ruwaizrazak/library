@@ -23,4 +23,4 @@ Thats the beauty about all these. We doesn’t even know whats gonna happen next
 
 It may take time until the pay off. but the real thing is what you gonna do until then? curse your fate and raise blood pressure? or keep faith in your fate? does worrying too much gonna change your fate? does it really matters? then why are you worrying? stop it and play it cool.
 
-#thoughts
+#thoughts [[childhood]]

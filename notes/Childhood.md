@@ -24,4 +24,4 @@ As far as I’ve heard, the childhood is the mould of any personalities, it’s 
 
 Keep the above paragraph in your mind, deal with your kids as if you are dealing with a great guy, so that they will be raised to a great soul. Respect your kids so that they may respect you, show your kindness to them so that they will shower your kindness to you.
 
-#thoughts
+#thoughts [[Death]]
