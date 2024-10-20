@@ -1,6 +1,12 @@
 ---
-layout: default
+layout: post
 title: Unintended Consequences of Design
+description:
+date: 2024-08-31
+author: Ruwaiz Razak
+tags:
+  - design
+  - budding
 ---
 
 How many times in your life have you wondered seeing the alternative possibilities of a particular product? We, humans are creative, we tend to find opportunities from every single thing that come across in our lives. Be it using Instagram for showcasing your merchandise, or checking internet availability by typing "google.com" in your browser.

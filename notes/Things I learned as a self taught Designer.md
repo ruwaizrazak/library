@@ -1,6 +1,12 @@
 ---
-layout: default
+layout: post
 title: Things I learned as a self taught designer
+description:
+date: 2024-08-31
+author: Ruwaiz Razak
+tags:
+  - thoughts
+  - design
 ---
 1.  Earlier in your careers its best to embrace the “Junior” title and focus a lot on learning
 

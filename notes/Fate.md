@@ -1,6 +1,12 @@
 ---
-layout: default
+layout: post
 title: Fate
+description:
+date: 2024-08-31
+author: Ruwaiz Razak
+tags:
+  - thoughts
+  - seedling
 ---
 
 The fate, which is defined as “the set of things which is out of anyone’s control”, is often misunderstood by the majority, or to make things easy, lets say, misunderstood by me.

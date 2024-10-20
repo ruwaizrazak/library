@@ -1,6 +1,11 @@
 ---
-layout: default
+layout: post
 title: The unvowed future
+description:
+date: 2024-08-31
+author: Ruwaiz Razak
+tags:
+  - seedling
 ---
 Most of us read newspapers every day. for some, its a ritual, and for the rest its once in a blue moon. However, both these categories gets used to the news which brings the death of someone who we once knew, who were something to us.
 

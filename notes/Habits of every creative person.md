@@ -1,6 +1,11 @@
 ---
-layout: default
+layout: post
 title: Habits of every creative person
+description:
+date: 2024-08-31
+author: Ruwaiz Razak
+tags:
+  - seedling
 ---
 - Money comes from territory that you are really good at work. Focus on great work and the money will follow.
 

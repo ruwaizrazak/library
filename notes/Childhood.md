@@ -1,6 +1,12 @@
 ---
-layout: default
+layout: post
 title: Childhood
+description: A thought on childhood
+date: 2024-08-31
+author: Ruwaiz Razak
+tags:
+  - thoughts
+  - budding
 ---
 “I spent my whole childhood wishing I were older and now I'm spending my adulthood wishing I were younger”.
 

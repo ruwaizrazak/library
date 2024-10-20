@@ -1,6 +1,12 @@
 ---
-layout: default
-title: DesignResponsibly
+layout: post
+title: Design Responsibly
+description:
+date: 2024-08-31
+author: Ruwaiz Razak
+tags:
+  - budding
+  - design
 ---
 
 *A deep sense of love and belonging is an irreducible need of all women, men, and children. We are biologically, cognitively, physically and spiritually wired to love, to be loved and to belong. – Dr Brene Brown*

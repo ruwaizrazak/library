@@ -1,6 +1,13 @@
 ---
-layout: default
+layout: post
 title: Breaking Down Fortnite's UX
+description: This is more like a seed to grow. But this essentially means, Im trying to dissect the fornite ux
+date: 2024-10-20
+author: Ruwaiz Razak
+tags:
+  - design
+  - tech
+  - seeds
 ---
 
 #Breaking Down Fortnite's UX

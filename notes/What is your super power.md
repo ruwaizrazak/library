@@ -1,7 +1,14 @@
 ---
-layout: default
+layout: post
 title: What is your super power
+description: Why are we supes?
+date: 2024-08-31
+author: Ruwaiz Razak
+tags:
+  - thoughts
+  - seeds
 ---
+
 “What is your super power?” This is a question I faced during a conversation I had this week, and I was kind of confused, and I really didn’t know what to reply as well.
 
 ## What is a superpower?

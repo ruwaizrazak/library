@@ -5,7 +5,7 @@ pagination:
   alias: tag
   addAllPagesToCollections: true
 layout: default
-permalink: /notes/tag/{{tag | slugify }}/index.html
+permalink: /notes/tag/{{tag}}/index.html
 eleventyComputed:
   title: Posts Tagged with "{{ tag }}"
 ---
@@ -17,3 +17,5 @@ eleventyComputed:
     <a href="{{post.url}}">{{post.data.title}}</a>
   </li>
 {% endfor %}
+
+<br>

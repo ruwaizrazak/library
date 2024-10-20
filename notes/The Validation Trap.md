@@ -1,6 +1,11 @@
 ---
-layout: default
+layout: post
 title: The Validation trap
+description:
+date: 2024-08-31
+author: Ruwaiz Razak
+tags:
+  - seedling
 ---
 
 ## Research items

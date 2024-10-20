@@ -1,6 +1,12 @@
 ---
-layout: default
+layout: post
 title: How to be a UX designer
+description:
+date: 2024-08-31
+author: Ruwaiz Razak
+tags:
+  - budding
+  - design
 ---
 
 What exactly you do at work? How to be a user experience designer? So you use sketch or photoshop? These are some questions I've been asked whenever I tell people that I work as a user experience designer.

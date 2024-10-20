@@ -1,6 +1,12 @@
 ---
-layout: default
+layout: post
 title: Design and Data
+description:
+date: 2024-08-31
+author: Ruwaiz Razak
+tags:
+  - design
+  - budding
 ---
 
 While I was working with multiple startup companies during the earlier stage of my career, I have heard statements like :
