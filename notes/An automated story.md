@@ -1,7 +1,14 @@
 ---
-layout: default
+layout: post
 title: An automated story
+description: This is a post on how I worked on the automation and made things simpler.
+date: 2024-08-31
+author: Ruwaiz Razak
+tags:
+  - thoughts
+  - tech
 ---
+
 I once read quote which says “Be the lazy guy in the room so that you might find easy ways to do the tasks in a legitimate way”.
 
 Well, i agree to that, what i always believe is its not about how hard you try, its about how effectively you try. Which means you can dig a 10ft pit using a shovel for 3 hours of more and later claim that you worked hard, or you can use easier ways such as assigning an Excavator for that. The latter is expensive, but your time might value more.
